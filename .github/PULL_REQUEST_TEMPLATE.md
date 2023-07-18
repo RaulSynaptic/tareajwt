@@ -1,31 +1,29 @@
-## Update
-- [ ] Hot Fix
-- [ ] Release
-- [ ] Develop
-- [ ] Others
+# **Name of PR**
 
-## Description
-* Feature #24
-[Write one-line description here]
+<!-- This PR fixes #NUMBER_OF_THE_ISSUE, and fixes #NUMBER_OF_THE_ISSUE -->
 
-## Update Summary
-- [Write feature(fix)-update here]
+## **Description**
 
-## New/Edited policies
-- [Write policy(styles)-update here]
+<!--  📛📛
+Please include a summary of the change and/or which issue is fixed.
+List any dependencies required for this change, if there are any.
+📛📛 -->
 
-## Resolved Issue
-- [Write resolved issue(recognized) here]
+*
 
-## Test
-- [ ] Unit Test
-- [ ] Build Test
+---
 
-## Proof Check
-- [ ] My code follows the guidelines of this project style.
-- [ ] I have performed a self-review of my own code.
-- [ ] I have commented my code, particularly in hard-to-understand areas.
-- [ ] I have made corresponding changes to the documentations.
-- [ ] I have added tests that prove my feature, policy, fix or issue is resolve, effective and works.
-- [ ] Existing tests pass locally with these changes.
-- [ ] New tests pass locally with these changes.
+### **Additional context**
+
+<!-- Add any other context or additional information about the pull request.-->
+
+*
+
+<!-- 📛📛📛📛
+If it fixes any current issue please let us know this way:
+Uncomment the comment above "description", then add your number of issues after the "#".
+Example: # **This pull request fixes #NUMBER_OF_THE_ISSUE issue**
+If there are multiple issues to be closed with the merge of this pull request
+please do it like so: **This pull request fixes #NUMBER_OF_THE_ISSUE, fixes #NUMBER_OF_THE_ISSUE and fixes #NUMBER_OF_THE_ISSUE issue**.
+For more information on closing issues using keywords, please check https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords#closing-multiple-issues
+📛📛📛📛 -->
