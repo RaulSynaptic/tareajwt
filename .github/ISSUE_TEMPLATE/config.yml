@@ -1,1 +1,14 @@
+---
+blank_issues_enabled: false
+contact_links:
+  - name: Devilbox Discord Chat
+    about: Please notify or discuss about any other requests here.
 
+  - name: Devilbox Discourse Forum
+    about: Please ask and answer general questions here.
+
+  - name: Devilbox Community Support
+    about: Please ask and answer questions here.
+
+  - name: Devilbox documentation
+    about: Find the Devilbox documentation here.
