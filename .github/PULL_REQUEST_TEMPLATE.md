@@ -17,9 +17,6 @@
 ## Resolved Issue
 - [Write resolved issue(recognized) here]
 
-## Unresolved Issue
-- [Write unresolved issue(recognized) here]
-
 ## Test
 - [ ] Unit Test
 - [ ] Build Test
@@ -32,4 +29,3 @@
 - [ ] I have added tests that prove my feature, policy, fix or issue is resolve, effective and works.
 - [ ] Existing tests pass locally with these changes.
 - [ ] New tests pass locally with these changes.
-- [ ] Any dependent changes have been merged and published in downstream modules.
