@@ -4,7 +4,7 @@ about: Report a bug.
 title: "\U0001F41B Your issue title here"
 labels: 'Needs Attention, type: bug'
 assignees: ''
-
+blank_issues_enabled: false
 ---
 
 ## Bug report
@@ -19,10 +19,6 @@ Steps to reproduce the behavior:
 1. Go to '...'
 2. '...'
 3. See error or incorrect behavior
-
-### Expected behavior
-
-A clear and concise description of what you expected to happen.
 
 ## Additional context
 
