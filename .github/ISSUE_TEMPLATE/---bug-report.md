@@ -2,7 +2,7 @@
 name: "\U0001F41B Bug Report"
 about: Report a bug.
 title: "\U0001F41B Your issue title here"
-labels: 'type: bug'
+labels: ["bug"]
 assignees: ''
 ---
 blank_issues_enabled: false
