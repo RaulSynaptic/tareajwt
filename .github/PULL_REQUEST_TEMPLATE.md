@@ -1,13 +1,10 @@
-# **Name of PR**
+## Describe your changes
 
-<!-- This PR fixes #NUMBER_OF_THE_ISSUE, and fixes #NUMBER_OF_THE_ISSUE -->
+## Issue ticket number and link
 
-## **Description**
+## Checklist before requesting a review
+- [ ] I have performed a self-review of my code
+- [ ] If it is a core feature, I have added thorough tests.
+- [ ] Do we need to implement analytics?
+- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
 
-<!-- 
-Please include a summary of the change and/or which issue is fixed.
-List any dependencies required for this change, if there are any.
- -->
-
-### **Additional context**
-<!-- Add any other context or additional information about the pull request.-->
