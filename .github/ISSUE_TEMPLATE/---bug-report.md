@@ -5,7 +5,6 @@ title: "\U0001F41B Your issue title here"
 labels: ["bug"]
 assignees: ''
 ---
-blank_issues_enabled: false
 
 ## Bug report
 
