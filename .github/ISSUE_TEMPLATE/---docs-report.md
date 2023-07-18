@@ -2,7 +2,7 @@
 name: "📚 Documentation or README.md issue report"
 about: "Report an issue in the project's documentation or README.md file."
 title: "📚 Your issue title here"
-labels: "Documentation"
+labels: ["documentation"]
 assignees: ''
 
 ---
