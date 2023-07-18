@@ -4,8 +4,8 @@ about: Report a bug.
 title: "\U0001F41B Your issue title here"
 labels: 'Needs Attention, type: bug'
 assignees: ''
-blank_issues_enabled: false
 ---
+blank_issues_enabled: false
 
 ## Bug report
 
