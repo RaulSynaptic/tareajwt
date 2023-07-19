@@ -1,10 +1,12 @@
-## Describe your changes
+<!-- Add a name to your PR below -->
+# FEATURE_NAME
 
-## Issue ticket number and link
+### Goal
+<!-- What is the goal of this Pull request -->
+<!-- What do you want to achieve? -->
 
-## Checklist before requesting a review
-- [ ] I have performed a self-review of my code
-- [ ] If it is a core feature, I have added thorough tests.
-- [ ] Do we need to implement analytics?
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
 
+### DESCRIPTION
+
+<!-- Enter a short description here -->
+<!-- Link to issues in case it fixes an issue -->
