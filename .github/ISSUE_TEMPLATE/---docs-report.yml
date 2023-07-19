@@ -1,7 +1,7 @@
 ---
 name: "\U0001F4DD Documentation"
 description: Something is missing or wrong in the documentation.
-title: "\U0001F4DD [Insert your documentation error name here]: "
+title: "\U0001F4DD: [Insert your documentation error name here]"
 labels: ["documentation"]
 
 body:
