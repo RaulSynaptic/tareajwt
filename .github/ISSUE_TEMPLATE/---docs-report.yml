@@ -1,0 +1,21 @@
+---
+name: "\U0001F4DD Documentation"
+description: Something is missing or wrong in the documentation.
+title: "\U0001F4DD [Insert your documentation error name here]: "
+labels: ["documentation"]
+
+body:
+
+  - type: textarea
+    attributes:
+      label: What is wrong in the documentation?
+      description: Tell us, what is wrong in the documentation?
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: What is missing in the documentation?
+      description: Tell us, what is missing in the documentation?
+    validations:
+      required: false
