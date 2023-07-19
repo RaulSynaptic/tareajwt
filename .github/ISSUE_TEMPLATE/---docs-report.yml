@@ -11,11 +11,11 @@ body:
       label: What is wrong in the documentation?
       description: Tell us, what is wrong in the documentation?
     validations:
-      required: false
+      required: true
 
   - type: textarea
     attributes:
-      label: What is missing in the documentation?
-      description: Tell us, what is missing in the documentation?
+      label: Add more information
+      description: here you can put extra information for this error. (e.g input your obtained response)
     validations:
       required: false
