@@ -2,7 +2,7 @@
 name: "✨ Feature request"
 description: Suggest an idea or feature for this project
 title: "✨: [Insert name of feature here]"
-labels: ["feature"]
+labels: ["enhancement"]
 
 body:
 
