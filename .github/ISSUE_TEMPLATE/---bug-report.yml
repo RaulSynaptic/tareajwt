@@ -11,13 +11,6 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report!
         
-  - type: input
-    attributes:
-      label: (Optional) Error message
-      description: If you encountered any error message, copy and paste it here. This will be used for googling the issue.
-    validations:
-      required: false
-
   - type: textarea
     id: what-happened
     attributes:
@@ -38,5 +31,12 @@ body:
     attributes:
       label: (Optional) Additional information
       description: Add any additional information that might help with this bug report.
+    validations:
+      required: false
+      
+  - type: input
+    attributes:
+      label: (Optional) Error message
+      description: If you encountered any error message, copy and paste it here. This will be used for googling the issue.
     validations:
       required: false
