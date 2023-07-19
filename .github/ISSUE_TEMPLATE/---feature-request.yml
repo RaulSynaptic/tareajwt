@@ -5,6 +5,12 @@ title: "✨: [Insert name of feature here]"
 labels: ["enhancement"]
 
 body:
+  - type: input
+    attributes:
+      label: Who is requesting it?
+      description: Please specify the client who is making the request.
+    validations:
+      required: true
 
   - type: textarea
     attributes:
@@ -12,10 +18,4 @@ body:
       description: Tell us, what idea or feature you suggest to be added.
     validations:
       required: true
-      
-  - type: input
-    attributes:
-      label: Who is requesting it?
-      description: Please specify the client who is making the request.
-    validations:
-      required: true
+    
