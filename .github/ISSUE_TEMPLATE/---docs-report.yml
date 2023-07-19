@@ -15,7 +15,7 @@ body:
 
   - type: textarea
     attributes:
-      label: Add more information
-      description: here you can put extra information for this error. (e.g input your obtained response)
+      label: (Optional) Additional information
+      description: Add any additional information that might help with this bug report (E.g. input your obtained response.).
     validations:
       required: false
