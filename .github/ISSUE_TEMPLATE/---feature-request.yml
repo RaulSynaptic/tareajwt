@@ -1,0 +1,14 @@
+---
+name: "✨ Feature request"
+description: Suggest an idea or feature for this project
+title: "✨: [Insert name of feature here]"
+labels: ["feature"]
+
+body:
+
+  - type: textarea
+    attributes:
+      label: What is your feature suggestion?
+      description: Tell us, what idea or feature you suggest to be added.
+    validations:
+      required: true
