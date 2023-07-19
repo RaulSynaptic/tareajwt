@@ -1,7 +1,7 @@
 ---
 name: "\U0001F41B Bug report"
 description: File a bug report
-title: "\U0001F41B [Insert your bug name here]"
+title: "\U0001F41B: [Insert your bug name here]"
 labels: ["bug", "triage"]
 
 body:
