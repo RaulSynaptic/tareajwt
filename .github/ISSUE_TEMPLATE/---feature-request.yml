@@ -1,6 +1,6 @@
 ---
 name: "✨ Feature request"
-description: Suggest an idea or feature for this project
+description: Suggest a feature for this project
 title: "✨: [Insert name of feature here]"
 labels: ["enhancement"]
 
@@ -10,5 +10,12 @@ body:
     attributes:
       label: What is your feature suggestion?
       description: Tell us, what idea or feature you suggest to be added.
+    validations:
+      required: true
+      
+  - type: input
+    attributes:
+      label: Who is requesting it?
+      description: Please specify the client who is making the request.
     validations:
       required: true
