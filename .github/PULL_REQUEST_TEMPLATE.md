@@ -9,4 +9,3 @@
 ### DESCRIPTION
 
 <!-- Enter a short description here -->
-<!-- Link to issues in case it fixes an issue -->
