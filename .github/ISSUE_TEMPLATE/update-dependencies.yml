@@ -15,6 +15,6 @@ body:
   - type: textarea
     attributes:
       label: What is the dependency to update?
-      description: Tell us which idea or dependency you suggest to be updated and why.
+      description: Tell us which dependency you suggest to be updated and why.
     validations:
       required: true
