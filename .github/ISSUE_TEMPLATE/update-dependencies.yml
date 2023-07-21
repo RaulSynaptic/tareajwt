@@ -1,0 +1,20 @@
+---
+name: '🤖 Update dependencies request'
+description: Suggest an update for dependencies of this project
+title: '✨: [Insert name of dependency here]'
+labels: ['dependencies']
+
+body:
+  - type: input
+    attributes:
+      label: Who is requesting it?
+      description: Please specify who is making the request.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: What is the dependency to update?
+      description: Tell us which idea or dependency you suggest to be updated and why.
+    validations:
+      required: true
